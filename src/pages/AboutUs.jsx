@@ -125,7 +125,7 @@ const AboutUs = () => {
               <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6 mt-12">
                 {[
                   { name: "Ms. Ayesha Khan", role: "General Manager", img: "https://randomuser.me/api/portraits/women/44.jpg" },
-                  { name: "fMr. Imran Malik,", role: "Head Chef", img: "https://randomuser.me/api/portraits/men/32.jpg" },
+                  { name: "Mr. Imran Malik,", role: "Head Chef", img: "https://randomuser.me/api/portraits/men/32.jpg" },
                   { name: "Mr. Danish Hussain", role: "Guest Relations", img: "https://randomuser.me/api/portraits/men/75.jpg" },
                   { name: "Emma Rizv", role: "Events Coordinator", img: "https://randomuser.me/api/portraits/women/63.jpg" },
                 ].map((person, index) => (
