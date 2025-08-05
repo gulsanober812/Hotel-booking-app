@@ -7,7 +7,7 @@ import BookingSummary from './pages/BookingSummary';
 
 import "./index.css"
 import Navbar from "./components/Navbar";
-import AboutUs from "./pages/Aboutus";
+import AboutUs from "./pages/AboutUs";
 
 function App() {
   return (
